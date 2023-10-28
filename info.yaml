@@ -11,7 +11,7 @@ project:
     - top.v
     - PISO_register.v
     - channel_counter.v
-    - mux_9to1.v
+    - mux_5to1.v
     - time_counter.v
   top_module:  "tt_um_adriannovosel_top"      # Put the name of your top module here, must start with "tt_um_". Make it unique by including your github username
 
